@@ -27,7 +27,7 @@ dependencyResolutionManagement {
 ```kotlin
 // build.gradle.kts
 dependencies {
-    implementation("com.sentinelbank:core-network:1.0.0")
+    implementation("com.sentinelbank:core-network:1.0.1")
 }
 ```
 
